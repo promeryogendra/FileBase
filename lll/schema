@@ -1,0 +1,5 @@
+kk(a-int,b-string)
+kk1(a-string,b-string)
+kk2(r1-int,r2-real)
+kk3(a1-int,b2-string,c3-real)
+tb(a-int,b-int)
